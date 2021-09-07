@@ -1,6 +1,6 @@
 {%hackmd SybccZ6XD %}
 [![hackmd-github-sync-badge](https://hackmd.io/gJG-1eJMRs-3vOn9WCbSsA/badge)](https://hackmd.io/gJG-1eJMRs-3vOn9WCbSsA)
-
+###### tags: `程式語言` `Python` `Kaggle` `interactive courses` 
 # Python on [Kaggle](https://www.kaggle.com/learn/python)
 ## Hello, Python
 A quick introduction to Python syntax, variable assignment, and numbers
@@ -17,3 +17,4 @@ Working with strings and dictionaries, two fundamental Python data types
 ## Working with External Libraries
 Imports, operator overloading, and survival tips for venturing into the world of external libraries
 ## Bonus Lessons : Titanic Tutorial
+{%youtube 8yZMXCaFshs %}
